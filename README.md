@@ -1,3 +1,3 @@
 # hello-world
 This is just the first Hello World project
-An this looks awesome!
+And this looks awesome!
